@@ -1,6 +1,6 @@
 # Learnster API ([LaraJam](https://larajam.dev))
 
-Learnster API is a REST API which supports Learnster, The app for learning with a linked path.
+Learnster API is a REST API which supports [Learnster](https://github.com/davorminchorov/learnster), the app for learning with a linked path.
 
 The idea behind this application is to allow for users to collect learning materials from the web in different sources and create a path for their own learning experience.
 
